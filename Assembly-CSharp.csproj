@@ -53,7 +53,13 @@
     <UnityVersion>2020.3.10f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\Rocket.cs" />
     <Compile Include="Assets\Script\Hero.cs" />
+    <Compile Include="Assets\Script\ScenePlay.cs" />
+    <Compile Include="Assets\Script\Monster.cs" />
+    <Compile Include="Assets\Script\SceneStart.cs" />
+    <Compile Include="Assets\Script\GameClear.cs" />
+    <Compile Include="Assets\Script\GameOver.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
